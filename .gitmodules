@@ -1,0 +1,6 @@
+[submodule "exams"]
+	path = exams
+	url = git@github.com:hehelego/InfiniTensor-Camp-Test.git
+[submodule "rustlings"]
+	path = rustlings
+	url = git@github.com:hehelego/InfiniTensor-Camp-Test.git
