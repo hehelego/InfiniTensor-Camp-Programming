@@ -11,6 +11,7 @@ exclude = [
   "TinyInfiniTensor",
   "learning-lm-rs"
 ]
+members = ["rustlings/rustlings"]
 
 [workspace.package]
 version = "6.0.1"
