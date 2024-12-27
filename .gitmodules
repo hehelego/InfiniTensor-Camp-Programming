@@ -3,4 +3,4 @@
 	url = git@github.com:hehelego/InfiniTensor-Camp-Test.git
 [submodule "rustlings"]
 	path = rustlings
-	url = git@github.com:hehelego/InfiniTensor-Camp-Test.git
+	url = git@github.com:hehelego/InfiniTensor-Camp-Rust.git
