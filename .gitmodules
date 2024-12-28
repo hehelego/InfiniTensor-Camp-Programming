@@ -4,3 +4,6 @@
 [submodule "rustlings"]
 	path = rustlings
 	url = git@github.com:hehelego/InfiniTensor-Camp-Rust.git
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = git@github.com:hehelego/InfiniTensor-Camp-Cpp.git
