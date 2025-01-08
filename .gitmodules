@@ -7,3 +7,12 @@
 [submodule "learning-cxx"]
 	path = learning-cxx
 	url = git@github.com:hehelego/InfiniTensor-Camp-Cpp.git
+[submodule "handout"]
+	path = handout
+	url = git@github.com:LearningInfiniTensor/handout.git
+[submodule "learning-lm-rs"]
+	path = learning-lm-rs
+	url = git@github.com:hehelego/InfiniTensor-Camp-lm-rs.git
+[submodule "TinyInfiniTensor"]
+	path = TinyInfiniTensor
+	url = git@github.com:hehelego/InfiniTensor-Camp-TinyInfiniTensor.git
