@@ -11,7 +11,6 @@ exclude = [
   "TinyInfiniTensor",
   "learning-lm-rs"
 ]
-members = ["rustlings/"]
 
 [workspace.package]
 version = "6.0.1"
@@ -78,4 +77,3 @@ panic = "abort"
 
 [package.metadata.release]
 pre-release-hook = ["./release-hook.sh"]
-
